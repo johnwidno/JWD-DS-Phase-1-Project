@@ -26,7 +26,7 @@ The dataset is from the National Transportation Safety Board that includes aviat
 - Number and severity of incidents
 - Operational detail
 
-# Three visualizations 
+# visualizations 
 Interactive DAshboard Build with Power BI 
 ![Screenshot 2025-06-15 105059](https://github.com/user-attachments/assets/d7ae4329-2518-4f4f-9c75-c55a0277719e)
 
