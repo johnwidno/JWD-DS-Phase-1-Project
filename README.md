@@ -1,2 +1,16 @@
 # JWD-DS-Phase-1-Project
-Use of data cleaning, imputation, analysis, and visualization to generate insights for a business stakeholder
+# Overview
+
+# Business Understanding
+
+# Include stakeholder and key business questions
+
+# Data Understanding and Analysis
+
+# Source of data
+
+# Description of data
+
+# Three visualizations 
+
+# Summary 
