@@ -27,7 +27,12 @@ The dataset is from the National Transportation Safety Board that includes aviat
 - Operational detail
 
 # Three visualizations 
+Interactive DAshboard Build with Power BI 
 ![Screenshot 2025-06-15 105059](https://github.com/user-attachments/assets/d7ae4329-2518-4f4f-9c75-c55a0277719e)
+
+Visualisation Presented in te NoteBook
+![my_plot](https://github.com/user-attachments/assets/18963637-b5a0-4a8c-85e8-5915f28925ed)
+
 
 # Summary 
 Based on the frequency and severity of incidents, we recommend considering aircraft such as the Boeing and Cessna.  which show low incident rates and minimal injury severity.
