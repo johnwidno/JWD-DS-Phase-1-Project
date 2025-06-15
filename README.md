@@ -18,9 +18,9 @@ The dataset is from the National Transportation Safety Board that includes aviat
 
 ## Description of data
 #### Key Features
-Aircraft specifications (category,Make , Model)
-Incident and accident reports
-Operator information
+- Aircraft specifications (category,Make , Model)
+- Incident and accident reports
+- Operator information
 
 Aircraft type, manufacturer, date, capacity, usage type
 Number and severity of incidents
