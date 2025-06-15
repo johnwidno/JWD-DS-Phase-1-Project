@@ -22,10 +22,12 @@ The dataset is from the National Transportation Safety Board that includes aviat
 - Incident and accident reports
 - Operator information
 
-Aircraft type, manufacturer, date, capacity, usage type
-Number and severity of incidents
-Operational detail
+- Aircraft type, manufacturer, date, capacity, usage type
+- Number and severity of incidents
+- Operational detail
 
 # Three visualizations 
+![Screenshot 2025-06-15 105059](https://github.com/user-attachments/assets/d7ae4329-2518-4f4f-9c75-c55a0277719e)
 
 # Summary 
+Based on the frequency and severity of incidents, we recommend considering aircraft such as the Boeing and Cessna.  which show low incident rates and minimal injury severity.
